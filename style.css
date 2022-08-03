@@ -1,0 +1,29 @@
+
+body{
+    background-image:url("ninja.jpg");
+    color: darkkhaki;
+}
+
+.link2 li a{
+    color: red;
+    font-family: sans-serif;
+    font-weight: bold;
+    background-repeat: no-repeat;
+    background-size: 200px;
+
+}
+.link3 li a{
+    color: rgb(98, 0, 255);
+    font-weight: bold;
+    font-style: italic;
+}
+.img{
+    border-radius:100px;
+    font-style: italic;
+    text-align: center;  
+    }
+.bundar{
+    border-radius:200px;
+
+}
+    
